@@ -1,3 +1,3 @@
 # More coming soon...
 
-# [iMGL paper data](pages/iMicroglia.md)
+# [iMGL paper data](iMicroglia.md)
