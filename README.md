@@ -1,3 +1,6 @@
-# More coming soon...
+# Scripts and publication information
 
-# [iMGL paper data](iMicroglia.md)
+# 2019
+### Human iPSC-derived microglia are genetically relevant to Alzheimer’s disease
+Butler RR 3rd, Kozlova A, Zhang H, Zhang S, Streit M, Sanders AR, Pang ZP, Gejman PV, Duan J
+_In Press_	[scripts and extended methods](iMicroglia.md)
