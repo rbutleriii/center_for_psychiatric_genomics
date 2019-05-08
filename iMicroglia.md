@@ -1,7 +1,7 @@
 ## Human iPSC-derived microglia are genetically relevant to Alzheimer’s disease
 
 ### Introduction
-Welcome! in [this tarball](_data/iMG_analysis.tar.gz) (4.8MB) you will find a mostly empty file tree containing all the scripts necessary to recreate the data generated for the paper.
+Welcome! in <a href="_data/iMG_analysis.tar.gz" download="download">this tarball</a> (4.8MB) you will find a mostly empty file tree containing all the scripts necessary to recreate the data generated for the paper.
 
 ```sh
 [01;34miMG_analysis/[00m
