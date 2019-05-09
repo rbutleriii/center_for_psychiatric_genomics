@@ -1,17 +1,11 @@
-[01;34miMG_analysis/[00m
-├── [01;34mbam_counts_pe[00m
-│   ├── command.txt
-│   ├── featureCounts_pe_counts.txt
-│   ├── featureCounts_pe_counts.txt.summary
-│   ├── featureCounts_se_counts.txt
-│   ├── featureCounts_se_counts.txt.summary
-│   ├── featureCounts_unpr_counts.txt
-│   └── featureCounts_unpr_counts.txt.summary
-├── [01;34mbam_counts_se[00m
+iMG_analysis/
+├── bam_counts_pe
 │   └── command.txt
-├── [01;34mbam_counts_unpair[00m
+├── bam_counts_se
 │   └── command.txt
-├── [01;34mldsc[00m
+├── bam_counts_unpair
+│   └── command.txt
+├── ldsc
 │   ├── 2019-03-07_generate_genesets.R
 │   ├── 2019-03-08_generate_genesets_top20.R
 │   ├── 2019-03-08_generate_genesets_top30.R
@@ -51,7 +45,7 @@
 │   ├── Kozlova_top40.ldcts
 │   ├── Kozlova_top50.ldcts
 │   └── README
-├── [01;34mMagma_analysis[00m
+├── Magma_analysis
 │   ├── 2019-02-06_sampleTable.txt
 │   ├── 2019-03-03_Specificity_merged.R
 │   ├── 2019-03-04_Magma_aMGL_merged_Jansen.R
@@ -92,11 +86,11 @@
 │   ├── 2019-03-14_merged_pVals_all.R
 │   ├── command.txt
 │   └── README
-├── [01;34mR_analysis[00m
+├── R_analysis
 │   ├── 2018-12-14_SraRunTable.xlsx
 │   ├── CQN_expression_analysis.R
 │   └── new_names.txt
-├── [01;34mR_analysis_redux[00m
+├── R_analysis_redux
 │   ├── 2019-01-03_SraRunTable.xlsx
 │   ├── 2019-01-08_sampleTable.txt
 │   ├── 2019-03-14_merged_specificity_ctdall.R
@@ -106,15 +100,15 @@
 │   ├── Haenseler_genes.txt
 │   ├── MGL_enrich_Bennett.txt
 │   └── new_names.txt
-├── [01;34mread_files[00m
+├── read_files
 │   ├── command.txt
 │   └── read_counts_fastq.sh
-├── [01;34mreferences[00m
+├── references
 │   └── command.txt
 ├── run_pipeline.sh
-├── [01;34mtrimmed_pe[00m
+├── trimmed_pe
 │   └── command.txt
-└── [01;34mtrimmed_se[00m
+└── trimmed_se
     └── command.txt
 
-11 directories, 106 files
+11 directories, 100 files
