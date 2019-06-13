@@ -2,7 +2,7 @@
 
 [Home](README.md)
 ### Introduction
-Welcome! in <a href="https://github.com/rbutleriii/center_for_psychiatric_genomics/raw/master/_data/iMG_analysis.tar.gz" download="download">this tarball</a> you will find a mostly empty file tree containing all the scripts necessary to recreate the data generated for the paper.
+Welcome! in <a href="https://github.com/rbutleriii/center_for_psychiatric_genomics/blob/master/_data/iMG_analysis.tar.gz" download="download">this tarball</a> you will find a mostly empty file tree containing all the scripts necessary to recreate the data generated for the paper.
 
 ```bash
 iMG_analysis/
