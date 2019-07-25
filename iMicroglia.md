@@ -1,4 +1,4 @@
-## Human iPSC-derived microglia are genetically relevant to Alzheimer’s disease
+## The Genetic Relevance of Human Induced Pluripotent Stem Cell-Derived Microglia to Alzheimer’s Disease and Major Neuropsychiatric Disorders
 
 [Home](README.md)
 ### Introduction
@@ -239,7 +239,10 @@ parallel -j7 ldsc.py \
 Munge_stats:
 ```bash
 munge_sumstats.py \
-  --sumstats ../R_analysis_redux/body_BMIz.sumstats.gz \
+  --sumstats ../R_analysis_redux/Meta-analysis_Locke_et_al+UKBiobank_2018_UPDATED.txt.gz \
+  --a1 Tested_Allele \
+  --a2 Other_Allele \
+  --frq Freq_Tested_Allele_in_HRS \
   --merge-alleles w_hm3.snplist \
   --out BMI
 ```
