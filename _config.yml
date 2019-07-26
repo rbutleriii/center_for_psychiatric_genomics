@@ -1,6 +1,3 @@
 theme: jekyll-theme-modernist
-title: NorthShore University HealthSystem
-description: Center for Psychiatric Genomics
-header_pages:
-  - Home: README.md
-  - iMG and AD: iMicroglia.md
+title: Center for Psychiatric Genomics
+description: NorthShore University HealthSystem
