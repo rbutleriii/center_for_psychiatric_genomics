@@ -2,6 +2,6 @@ theme: jekyll-theme-modernist
 title: NorthShore University HealthSystem
 description: Center for Psychiatric Genomics
 header_pages:
-  Home: "https://rbutleriii.github.io/center_for_psychiatric_genomics/Readme.md"
+  Home: "https://rbutleriii.github.io/center_for_psychiatric_genomics/README.md"
   2019:
     - iMG and AD: "https://rbutleriii.github.io/center_for_psychiatric_genomics/iMicroglia.md"
