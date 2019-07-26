@@ -5,3 +5,7 @@ navbar-links:
   Home: "https://rbutleriii.github.io/center_for_psychiatric_genomics"
   2019:
     - iMG and AD: "https://rbutleriii.github.io/center_for_psychiatric_genomics/iMicroglia.html"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
